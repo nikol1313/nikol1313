@@ -15,6 +15,11 @@
 - 🐧 Linux & automation enthusiast
 - 📫 Contact: **avsajanishvilinikol@gmail.com**
 
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 💻 Stack
 
