@@ -9,9 +9,8 @@
 
 ---
 
-## 🚀 About Me
+## Junior Developer
 
-**Junior Developer**
 - 🐍 Passionate about Python and building scalable backend services
 - ⚡ Currently learning **CI/CD, Cloud & DevOps & while developing backend services**
 - 🐧 Linux & automation enthusiast
