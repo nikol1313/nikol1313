@@ -31,14 +31,14 @@
 🚀 **Async Video Downloader**
 - FastAPI + PostgreSQL + Docker
 - Async download jobs
-- FFmpeg integration
+- FFmpeg, yt_dlt libraries
 - Background processing
 
 🔐 **Backend API**
-- JWT Authentication
+- JWT Authentication & Oauth 2.0
 - Notes & Tasks CRUD
 - PostgreSQL
-- Docker Compose
+- Dockerized
 
 🔗 **URL Shortener**
 - FastAPI REST API
