@@ -8,7 +8,6 @@
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
 ## Junior Developer
 
 - 🐍 Passionate about Python and building scalable backend services
