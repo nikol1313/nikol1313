@@ -47,7 +47,7 @@
 - Dockerized
 
 
-## 🌐 Connect With Me
+## 🔗 Socials
 
 <a href="https://nikol1313.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
