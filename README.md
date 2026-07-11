@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=nikol1313&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 🚀 About Me
@@ -43,3 +45,12 @@
 - PostgreSQL
 - JWT Authentication
 - Dockerized
+
+
+## 🌐 Connect With Me
+
+<a href="https://nikol1313.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+
+</p>
