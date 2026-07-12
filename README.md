@@ -15,17 +15,6 @@
 - 🐧 Linux & automation enthusiast
 - 📫 Contact: **avsajanishvilinikol@gmail.com**
 
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-Python   15 mins               ███████████████████▒░░░░░   77.07 %
-HTML     4 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-```
-
-<!--END_SECTION:waka-->
-
 
 ## 💻 Stack
 
