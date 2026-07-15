@@ -26,7 +26,7 @@
 
 ## 📌 Featured Projects
 
-🚀 **Async Video Downloader**
+🚀 **Video Downloader**
 - FastAPI + PostgreSQL + Docker
 - Async download jobs
 - FFmpeg, yt_dlt libraries
