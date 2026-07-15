@@ -19,7 +19,7 @@
 ## 💻 Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,linux,bash,sqlite,html,css,pycharm," />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,linux,bash,sqlite,html,css,pycharm,prometheus,grafana" />
 </p>
 
 ---
