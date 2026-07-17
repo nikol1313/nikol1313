@@ -24,27 +24,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-🚀 **Video Downloader**
-- FastAPI + PostgreSQL + Docker
-- Async download jobs
-- FFmpeg, yt_dlt libraries
-- Background processing
-
-🔐 **Backend API**
-- JWT Authentication & Oauth 2.0
-- Notes & Tasks CRUD
-- PostgreSQL
-- Dockerized
-
-🔗 **URL Shortener**
-- FastAPI REST API
-- PostgreSQL
-- JWT Authentication
-- Dockerized
-
-
 ## 🔗 Socials
 
 <a href="https://nikol1313.github.io/">
