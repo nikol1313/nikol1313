@@ -10,10 +10,10 @@
 ---
 ## Junior Developer
 
-- 🐍 Passionate about Python and building backend applications
-- ⚡ Currently learning **Scalable Backend Systems & DevOps**
-- 🤖 AI automation & web scraping enthusiast
-- 📫 Contact: **avsajanishvilinikol@gmail.com**
+-  Passionate about Python and building backend applications
+-  Currently learning **Scalable Backend Systems & DevOps**
+-  AI automation & web scraping enthusiast
+-  Contact: **avsajanishvilinikol@gmail.com**
 
 
 ## 💻 Stack
