@@ -16,15 +16,26 @@
 -  Contact: **avsajanishvilinikol@gmail.com**
 
 
-## 💻 Stack
+## Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,linux,bash,sqlite,html,css,pycharm,prometheus,grafana" />
 </p>
 
----
+## Testing & Quality
 
-## 🔗 Socials
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" />
+  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+## Socials
 
 <a href="https://nikol1313.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
