@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" />
   <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Alembic-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
