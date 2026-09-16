@@ -8,7 +8,7 @@
 ### hey
 
 mostly working with **Python & JavaScript**.
-building front & back for the web, messing around with automation and scraping, and learning whatever I need along the way.
+building front & back for the web, messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
 
 📫 **[avsajanishvilinikol@gmail.com](mailto:avsajanishvilinikol@gmail.com)**
 
@@ -24,4 +24,4 @@ building front & back for the web, messing around with automation and scraping, 
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,neovim,linux,bash,git,github,docker,postman,npm,nodejs" />
 </p>
 
-`github actions` · `prometheus` · `grafana`
+`CI/CD` · `Monitoring: prometheus/grafana`
