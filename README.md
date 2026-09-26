@@ -15,7 +15,7 @@ building front & back for the web, messing around with automation and scraping, 
 ## things i work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,fastapi,postgres,sqlite,html,css,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,postgres,sqlite,html,css,react,typescript" />
 </p>
 
 ## tools
