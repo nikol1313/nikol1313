@@ -24,4 +24,6 @@ building front & back for the web, messing around with automation and scraping, 
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,neovim,linux,bash,git,github,docker,postman,npm,nodejs" />
 </p>
 
-`CI/CD` · `Monitoring: prometheus/grafana`
+## devops
+
+`Linux` · `Bash` · `CI/CD` · `Prometheus` · `Grafana` . `GitHub Actions`
