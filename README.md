@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=nikol1313&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-### hey
+### hey!
 
 mostly working with **Python & JavaScript**.
 building front & back for the web, messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
