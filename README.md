@@ -7,7 +7,7 @@
 
 ### hey!
 
-mostly working with **Python & JavaScript**.
+mostly working with **typescript, JavaScript and python**.
 building front & back for the web, messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
 
 [**portfolio ↗**](https://nikol1313.github.io)
