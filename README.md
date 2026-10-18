@@ -10,6 +10,8 @@
 mostly working with **typescript, JavaScript and python**.
 building front & back for the web, messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
 
+open to opportunities where I can sharpen my skills, gain hands-on experience, and contribute to real-world projects.
+
 [**portfolio ↗**](https://nikushaavsajanishvili.com/)
 
 📫 **[avsajanishvilinikol@gmail.com](mailto:avsajanishvilinikol@gmail.com)**
