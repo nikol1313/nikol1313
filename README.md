@@ -25,7 +25,7 @@ open to opportunities where I can sharpen my skills, gain hands-on experience, a
 ## tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,neovim,linux,bash,git,github,docker,postman,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,neovim,linux,bash,git,github,docker,npm,nodejs" />
 </p>
 
 ## devops
