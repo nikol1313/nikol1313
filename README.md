@@ -30,4 +30,4 @@ open to opportunities where I can sharpen my skills, gain hands-on experience, a
 
 ## devops
 
-`Linux` · `Bash` · `CI/CD` · `Prometheus` · `Grafana` . `GitHub Actions`
+`Linux` · `Bash` · `CI/CD` · `Prometheus` · `Grafana` · `GitHub Actions`
