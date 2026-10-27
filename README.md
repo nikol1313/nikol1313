@@ -1,5 +1,5 @@
 <h1 align="center">Nikusha Avsajanishvili</h1>
-<h3 align="center">devops • test automation • full-stack</h3>
+<h3 align="center">devops • test automation • web</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikol1313&label=Profile%20Views&color=0e75b6&style=flat" />
