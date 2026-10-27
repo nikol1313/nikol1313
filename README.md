@@ -7,8 +7,8 @@
 
 ### hey!
 
-mostly working with **typescript, JavaScript and python**.
-building front & back for the web, messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
+mostly working with **typescript and python**.
+building front & back for the web, testing, deploying and monitoring. messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
 
 open to opportunities where I can sharpen my skills, gain hands-on experience, and contribute to real-world projects.
 
