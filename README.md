@@ -7,12 +7,15 @@
 
 ### hey!
 
-mostly working with **typescript and python**.
+mostly working with **typescript and python**. 
 building front & back for the web, testing, deploying and monitoring. messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
 
 open to opportunities where I can sharpen my skills, gain hands-on experience, and contribute to real-world projects.
 
+
 [**portfolio ↗**](https://nikushaavsajanishvili.com/)
+
+creator of [**iphonetracker.ge**](https://iphonetracker.ge/) 
 
 📫 **[avsajanishvilinikol@gmail.com](mailto:avsajanishvilinikol@gmail.com)**
 
