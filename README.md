@@ -11,12 +11,10 @@
 mostly working with **typescript and python**. 
 building front & back for the web, testing, deploying and monitoring. messing around with automation and scraping, solving LeetCode & algorithm problems for fun, and learning whatever I need along the way.
 
-open to opportunities where I can sharpen my skills, gain hands-on experience, and contribute to real-world projects.
-
 
 [**portfolio ↗**](https://nikushaavsajanishvili.com/)
 
-creator of [**iphonetracker.ge**](https://iphonetracker.ge/) 
+[**iphonetracker.ge**](https://iphonetracker.ge/) 
 
 📫 **[avsajanishvilinikol@gmail.com](mailto:avsajanishvilinikol@gmail.com)**
 
@@ -31,7 +29,3 @@ creator of [**iphonetracker.ge**](https://iphonetracker.ge/)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,neovim,linux,bash,git,github,docker,npm,nodejs" />
 </p>
-
-## devops
-
-`Linux` · `Bash` · `CI/CD` · `Prometheus` · `Grafana` · `GitHub Actions`
